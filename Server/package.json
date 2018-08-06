@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "10.7.1",
+    "node": "8.11.3",
     "npm": "6.1.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
